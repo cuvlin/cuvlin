@@ -6,3 +6,4 @@ My name is Calvin Fu and I am currently pursuing a Master of Environmental Data 
 - 🌱 I’m currently learning about how to use Python and R for geospatial analysis
 - 📫 How to reach me: You can reach out to me via email at calvinfu@ucsb.edu
 - ⚡ A bit about me: I love the great outdoors, especially exploring remote areas. I likes to discover new waves, climb through the alpine, and chase powder. Im also very passionate about analog photography.
+# [![calvin fu header](https://raw.githubusercontent.com/cuvlin/cuvlin/main/cuvlin.png)](cuvlin.github.io)
