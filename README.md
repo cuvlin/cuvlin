@@ -1,1 +1,1 @@
-# [![calvin fu header](https://github.com/cuvlin/cuvlin/blob/main/cuvlin.jpg)](https://cuvlin.github.io/)
+# [![calvin fu header](https://github.com/cuvlin/cuvlin/blob/main/cuvlin.png)](https://cuvlin.github.io/)
